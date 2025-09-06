@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector> // Required for std::vector
+#include <algorithm>
 
 using namespace std;
 
